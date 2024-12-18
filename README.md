@@ -1,4 +1,4 @@
-# Hi there, I'm Rio Kandekore! 👋
+# Hi there, I'm Rio! 👋
 
 ### 🌟 About Me
 - 🎓 I'm a 22-year-old Quality Engineer Degree Apprentice at **IBM**, based in Manchester, UK.  
