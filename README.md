@@ -2,8 +2,8 @@
 
 ### 🌟 About Me
 - 🎓 I'm a 22-year-old Quality Engineer Degree Apprentice at **IBM**, based in Manchester, UK.  
-- 💻 Currently teaching myself **Python**, **Machine Learning**, and exploring **AWS** for **Cloud**, **AI**, and **Machine Learning**.  
-- 🎧 A huge fan of **hip-hop**! I also design and create vinyl records 🎶.  
+- 💻 Currently teaching myself **Data Science**, and exploring **AWS** for **Cloud**, **AI**, and **Machine Learning**.  
+- 🎧 A huge fan of **hip-hop** and **Jazz!** 🎶.  
 - 🥋 Passionate about **Muay Thai**, and enjoy staying active.  
 
 ### 🌍 Language Learning  
