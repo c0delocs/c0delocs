@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Rio Kandekore! 👋
 
-<!--
-**c0delocs/c0delocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🎓 I'm a 22-year-old Quality Engineer Degree Apprentice at **IBM**, based in Manchester, UK.  
+- 💻 Currently teaching myself **Python**, **Machine Learning**, and exploring **AWS** for **Cloud**, **AI**, and **Machine Learning**.  
+- 🎧 A huge fan of **hip-hop**! I also design and create vinyl records 🎶.  
+- 🥋 Passionate about **Muay Thai**, and enjoy staying active.  
 
-Here are some ideas to get you started:
+### 🌍 Language Learning  
+I'm on a journey to master:  
+- 🇩🇪 **German**  
+- 🇯🇵 **Japanese**  
+- 🇹🇭 **Thai**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Always Learning
+I believe in lifelong learning and am constantly improving my skills in tech, languages, and personal hobbies.  
+
+---
+
+💡 *"Be not afraid of going slowly; be afraid only of standing still."* - Japanese Proverb  
+
+Feel free to connect with me or check out my projects here!  
