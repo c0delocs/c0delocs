@@ -8,10 +8,8 @@
 
 ### 🌍 Language Learning  
 I'm on a journey to master:  
-- 🇩🇪 **German**  
-- 🇯🇵 **Japanese**  
-- 🇹🇭 **Thai**  
-
+- 🇩🇪 **German**
+  
 ### 🌱 Always Learning
 I believe in lifelong learning and am constantly improving my skills in tech, languages, and personal hobbies.  
 
