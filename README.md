@@ -30,5 +30,6 @@ I’m currently focused on moving into a **Technical Product role**, where I can
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn
-🚀 Portfolio 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rio-k-7b60791b1/)
+- 🚀 [Portfolio](https://rkportfolio.co.uk)
+---
