@@ -11,7 +11,7 @@ Hey, I’m Rio.
 
 ## 🚀 Current Focus
 
-🔧 Building real-world projects using AWS
+🔧 Building real-world projects using AWS<br>
 📊 Developing product thinking through frameworks and applied experience  
 🧠 Strengthening my technical skillset across DevOps, Cloud, and AI  
 📚 Working towards AWS certifications and hands-on experience  
