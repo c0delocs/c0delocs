@@ -2,20 +2,20 @@
 
 Hey, I’m Rio.
 
-🎓 Degree Apprentice at IBM, based in Manchester, UK  
-💼 Currently working as an Environment Manager, supporting deployments and stakeholder coordination  
-📈 Transitioning towards Technical Product Management, combining product thinking with cloud and DevOps  
-☁️ Building hands-on experience in AWS, focusing on real-world architecture and delivery  
+-  Degree Apprentice at IBM, based in Manchester, UK  
+-  Currently working as an Environment Manager, supporting deployments and stakeholder coordination  
+-  Transitioning towards Technical Product Management, combining product thinking with cloud and DevOps  
+-  Building hands-on experience in AWS, focusing on real-world architecture and delivery  
 
 ---
 
 ## 🚀 Current Focus
 
-🔧 Building real-world projects using AWS<br>
-📊 Developing product thinking through frameworks and applied experience  
-🧠 Strengthening my technical skillset across DevOps, Cloud, and AI  
-📚 Working towards AWS certifications and hands-on experience  
-📈 Growing into a role that combines product delivery and technical understanding  
+-  Building real-world projects using AWS<br>
+-  Developing product thinking through frameworks and applied experience  
+-  Strengthening my technical skillset across DevOps, Cloud, and AI  
+-  Working towards AWS certifications and hands-on experience  
+-  Growing into a role that combines product delivery and technical understanding  
 
 ---
 
