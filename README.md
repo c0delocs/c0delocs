@@ -1,26 +1,50 @@
-🌐 Welcome to my GitHub! ✨
+## 👋🏾 About Me
 
-## 👋 About Me
-Hey, I’m Rio.  
+Hey, I’m Rio.
 
-🧑‍💻 22-year-old Degree Apprentice at IBM, based in Manchester, UK  
-📚 Studying Digital & Technology Solutions while gaining experience as a Deployment Manager  
-☁️ Exploring Cloud, Data & AI with a focus on AWS and Python  
-🥊 Passionate about Muay Thai training and long-distance running  
-🎵 Hip-Hop & Lo-Fi are my go-to coding playlists  
+🎓 Degree Apprentice at IBM, based in Manchester, UK  
+💼 Currently working as an Environment Manager, supporting deployments and stakeholder coordination  
+📈 Transitioning towards Technical Product Management, combining product thinking with cloud and DevOps  
+☁️ Building hands-on experience in AWS, focusing on real-world architecture and delivery  
+🐍 Learning Python alongside cloud to strengthen technical foundations  
 
 ---
 
-## 🔭 Current Focus
-📌 Working towards **AWS Cloud Practitioner**  
-📌 Building real-world projects through Codecademy & AWS labs  
-📌 Growing my personal brand – documenting the journey across GitHub, LinkedIn & Instagram  
+## 🚀 Current Focus
+
+🔧 Building real-world projects using AWS 
+📊 Developing product thinking through frameworks and applied experience  
+🧠 Strengthening my technical skillset across DevOps, Cloud, and AI  
+📚 Working towards AWS certifications and hands-on experience  
+📈 Growing into a role that combines product delivery and technical understanding  
+
+---
+
+## 🎯 Career Direction
+
+I’m currently focused on moving into a **Technical Product role**, where I can combine:
+
+- Product thinking and decision-making  
+- Cloud and DevOps understanding  
+- Real delivery experience from my current role  
+
+Long term, I’m aiming to:
+- Progress into Band 7  
+- Build strong technical and product capability  
+- Work on impactful, scalable products  
 
 ---
 
 ## 🤝 Connect With Me
-Always up for connecting, sharing ideas, or collaborating on projects.  
-Check back here for updates as I add more repos and certifications 🚀  
 
-🔗 [LinkedIn – Rio Kandekore](https://www.linkedin.com/in/rio-k-7b60791b1/)  
-📸 [Instagram – @c0delocs](https://www.instagram.com/c0delocs/)  
+Always open to conversations around:
+- Cloud & AWS  
+- Product Management  
+- Career growth  
+
+🔗 LinkedIn
+🚀 Portfolio 
+
+---
+
+> Documenting the journey as I build, learn, and grow.
